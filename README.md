@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A Cryoto React App, created with API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Demo [Click here!](https://ecstatic-roentgen-1a6e0a.netlify.app/)
 
 ## Available Scripts
 
